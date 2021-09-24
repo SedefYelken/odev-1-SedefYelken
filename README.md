@@ -1,6 +1,12 @@
 # odev-1-SedefYelken
 
-Response getData(1):
+  Projede **"axios"** kütüphanesi kullanılarak rest api çağrımı yapıldı. Gelen response değerleri birleştirilerek return edildi.
+
+1 parametre değeri için dönen json
+```
+
+getData(1):
+
 {
   id: 1,
   name: 'Leanne Graham',
@@ -113,3 +119,4 @@ Response getData(1):
     }
   ]
 }
+```
